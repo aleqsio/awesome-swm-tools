@@ -58,7 +58,7 @@ Will try to keep it up to date.
 * [Live Debugger](https://github.com/software-mansion/live-debugger) - A browser-based tool for **debugging applications written in Phoenix LiveView** (an Elixir library), allowing developers to inspect component trees and trace callbacks.
 * [Elixir WebRTC](https://elixir-webrtc.org/) - A full, compliant implementation of the **W3C WebRTC API** written almost entirely in **Elixir**, providing the foundation for real-time video/audio applications in the Elixir ecosystem.
 
-* [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser** via WebAssembly (WASM).
+* [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser via WebAssembly (WASM).
 
 * [Boombox](https://github.com/membraneframework/boombox) - A **high-level, simple streaming tool** built on top of the **Membrane Framework** (Elixir), designed to quickly handle common multimedia streaming tasks like converting RTMP to HLS with a declarative API.
 
