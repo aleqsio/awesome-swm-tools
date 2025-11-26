@@ -51,9 +51,26 @@ Will try to keep it up to date.
 
 - [TypeGPU](https://github.com/software-mansion/TypeGPU) - TypeGPU is a modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript.
 
-# Elixir & Multimedia
+# Elixir
 
-# Products and libraries
+## Products and libraries
+
+* [Live Debugger](https://github.com/software-mansion/live-debugger) - A browser-based tool for **debugging applications written in Phoenix LiveView** (an Elixir library), allowing developers to inspect component trees and trace callbacks.
+* [Elixir WebRTC](https://elixir-webrtc.org/) - A full, compliant implementation of the **W3C WebRTC API** written almost entirely in **Elixir**, providing the foundation for real-time video/audio applications in the Elixir ecosystem.
+
+* [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser via WebAssembly (WASM).
+
+
+
+## Events and communities
+* [Global Elixir Meetups](https://globalelixirmeetups.com/) - **Global Elixir Meetups (GEMs)**, a worldwide event series organized and streamed by Software Mansion to connect and grow the global Elixir development community.
+  
+* [Elixir Community Kraków (ECK)](https://www.meetup.com/elixir-community-krakow-eck/) - A local **community meetup group** organized by Software Mansion in Kraków, Poland, creating a space for local developers to connect, learn, and discuss the **Elixir** programming language.
+* [Elixir Stream Week (ESW)](https://elixir-webrtc.org/esw.html) - An **online community event** featuring broadcasts and talks from top Elixir developers, organized and streamed by Software Mansion using their own Elixir multimedia tools.
+  
+# Multimedia
+
+## Products and libraries
 
 * [Fishjam](https://fishjam.io) - A general-purpose **media server** (written in Elixir) that supports WebRTC, HLS, RTSP, and SIP, forming the backend for many real-time video applications.
 
@@ -61,24 +78,19 @@ Will try to keep it up to date.
 
 * [Membrane Framework](https://github.com/membraneframework) - A versatile, open-source **multimedia streaming and processing framework written in Elixir** that allows developers to build robust, scalable, and customizable media pipelines for applications using protocols like WebRTC, RTMP, RTSP, and HLS.
   
-* [Live Debugger](https://github.com/software-mansion/live-debugger) - A browser-based tool for **debugging applications written in Phoenix LiveView** (an Elixir library), allowing developers to inspect component trees and trace callbacks.
 * [Elixir WebRTC](https://elixir-webrtc.org/) - A full, compliant implementation of the **W3C WebRTC API** written almost entirely in **Elixir**, providing the foundation for real-time video/audio applications in the Elixir ecosystem.
-
-* [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser via WebAssembly (WASM).
 
 * [Boombox](https://github.com/membraneframework/boombox) - A **high-level, simple streaming tool** built on top of the **Membrane Framework** (Elixir), designed to quickly handle common multimedia streaming tasks like converting RTMP to HLS with a declarative API.
 
 * [vk-video](https://github.com/software-mansion/smelter/tree/master/vk-video) – A library for hardware video decoding (and soon encoding) using Vulkan Video, with wgpu integration.
 
-# Events and communities
+## Events and communities
 
 * [rtcon.live](https://rtcon.live/) - **RTC.ON** is a developer conference focused on sharing expertise in **WebRTC, streaming, computer vision, and AI development**, targeting multimedia engineers and enthusiasts.
-  
-* [Global Elixir Meetups](https://globalelixirmeetups.com/) - **Global Elixir Meetups (GEMs)**, a worldwide event series organized and streamed by Software Mansion to connect and grow the global Elixir development community.
-* [Elixir Community Kraków (ECK)](https://www.meetup.com/elixir-community-krakow-eck/) - A local **community meetup group** organized by Software Mansion in Kraków, Poland, creating a space for local developers to connect, learn, and discuss the **Elixir** programming language.
-* [Elixir Stream Week (ESW)](https://elixir-webrtc.org/esw.html) - An **online community event** featuring broadcasts and talks from top Elixir developers, organized and streamed by Software Mansion using their own Elixir multimedia tools.
-  
+    
 * [Kraków Video Tech Meetup](https://www.meetup.com/pl-pl/krakow-video-tech-meetup/) - A local **community meetup group** organized and hosted by Software Mansion, dedicated to developers and software professionals working with video, audio, **WebRTC**, and computer vision.
+  
+  
 # Kotlin Multiplatform
 
 * [kmp-maps](https://github.com/software-mansion/kmp-maps) - A **universal map component for Compose Multiplatform** that provides a single API for native map services (Google Maps on Android, Apple Maps on iOS).
