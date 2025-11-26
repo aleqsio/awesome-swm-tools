@@ -35,6 +35,8 @@ Will try to keep it up to date.
 
 * [TypeGPU Confetti](https://github.com/software-mansion-labs/typegpu-confetti) - A confetti animations package for React and React Native, notable for performing all calculations and rendering **exclusively on the GPU** using the **TypeGPU** and **WebGPU** stack for maximum performance.
 
+* [expo-horizon-core](https://github.com/software-mansion-labs/expo-horizon) - An Expo config plugin designed to add support for **Meta Quest VR devices** to Expo development builds by managing Android product flavors and specific Meta Horizon Store requirements.
+
 ## Platforms
 * [Detour](https://docs.swmansion.com/detour/) - A developer-first, open-source platform for robust **deep linking** in mobile applications, handling deferred deep links and link routing with specialized React Native SDK support.
 
