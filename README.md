@@ -45,6 +45,10 @@ Will try to keep it up to date.
 
 * [State Of React Native](https://github.com/software-mansion/state-of-react-native) - The repository for collaborating on the **shape, questions, and structure of the annual "State of React Native" survey**, which Software Mansion organizes.
 
+# Shaders & Graphics
+
+- [TypeGPU](https://github.com/software-mansion/TypeGPU) - TypeGPU is a modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript.
+
 # Elixir & Multimedia
 
 # Products and libraries
