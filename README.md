@@ -8,6 +8,7 @@ Will try to keep it up to date.
 * [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - A powerful animation library for React Native, reimplementing the core Animated API to run animations on the native UI thread.
 
 * [react-native-screens](https://github.com/software-mansion/react-native-screens) - The core library that provides native navigation primitives, allowing React Navigation and other solutions to use native containers for screens.
+* [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Provides a **declarative API** exposing the platform's native touch and **gesture system** to React Native, ensuring high performance and a native feel for interactions.
 * [react-native-svg](https://github.com/software-mansion/react-native-svg) - An SVG library for React Native, React Native Web, and plain React web projects.
 * [react-freeze](https://github.com/software-mansion/react-freeze) - A library that uses the React Suspense mechanism to prevent component subtrees from rendering when they are not visible, commonly used to optimize hidden navigation screens.
 * [react-native-executorch](https://github.com/software-mansion/react-native-executorch) - A declarative way to run AI models in React Native on the device, powered by ExecuTorch.
@@ -19,6 +20,11 @@ Will try to keep it up to date.
 
 * [react-native-shine](https://github.com/software-mansion-labs/react-native-shine) - A library for integrating **interactive GPU-based shader effects** into React Native apps, leveraging `TypeGPU` and WebGPU for fast and efficient visual effects.
 
+* [react-native-wallet](https://github.com/Expensify/react-native-wallet) - A lightweight, cross-platform library built in collaboration with Expensify to simplify the process of adding payment cards to **Apple Wallet** and **Google Wallet** (Push Provisioning).
+  
+* [react-native-rag](https://github.com/software-mansion/react-native-rag) - A specialized library for integrating Retrieval-Augmented Generation (RAG) capabilities into React Native applications, facilitating on-device, context-aware AI interactions.
+  
+* [react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) - A performant and customizable component for React Native that renders **Markdown text dynamically as it is being typed**, primarily developed by Expensify with significant contribution from Software Mansion.
 ## Editor extensions
 
 * [react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker) - A VS Code/Cursor extension to visualize which React components are optimized by the React Compiler.
@@ -35,7 +41,7 @@ Will try to keep it up to date.
 
 # Elixr & Multimedia
 
-* [Fishjam](https://github.com/fishjam-dev/fishjam) - A general-purpose **media server** (written in Elixir) that supports WebRTC, HLS, RTSP, and SIP, forming the backend for many real-time video applications.
+* [Fishjam](https://fishjam.io) - A general-purpose **media server** (written in Elixir) that supports WebRTC, HLS, RTSP, and SIP, forming the backend for many real-time video applications.
 
 * [Smelter](https://github.com/software-mansion-labs/smelter) - A tool for **hot-reloading native code** in React Native applications, allowing native modules to be quickly iterated on and updated without recompiling the entire application, significantly speeding up development.
 
@@ -43,10 +49,22 @@ Will try to keep it up to date.
   
 * [Live Debugger](https://github.com/software-mansion/live-debugger) - A browser-based tool for **debugging applications written in Phoenix LiveView** (an Elixir library), allowing developers to inspect component trees and trace callbacks.
 * [rtcon.live](https://rtcon.live/) - **RTC.ON** is a developer conference focused on sharing expertise in **WebRTC, streaming, computer vision, and AI development**, targeting multimedia engineers and enthusiasts.
+* [Global Elixir Meetups](https://globalelixirmeetups.com/) - **Global Elixir Meetups (GEMs)**, a worldwide event series organized and streamed by Software Mansion to connect and grow the global Elixir development community.
 
 # Kotlin Multiplatform
 
 * [kmp-maps](https://github.com/software-mansion/kmp-maps) - A **universal map component for Compose Multiplatform** that provides a single API for native map services (Google Maps on Android, Apple Maps on iOS).
   
 * [kmp-sharing](https://github.com/software-mansion/kmp-sharing) - A *universal sharing module* for Compose Multiplatform.
+  
+* [KMP Wheel Picker](https://github.com/software-mansion-labs/kmp-wheel-picker) - A flexible and modular **wheel picker component** for **Compose Multiplatform (KMP)** applications, enabling native-style selection UIs on Android, iOS, and desktop.
 
+# Web3 (mostly Cairo)
+
+* [Scarb](https://github.com/software-mansion/scarb) - The official **package manager and build toolchain** for the **Cairo programming language**, streamlining dependency management and project compilation.
+
+* [Cairo Language Server (cairols)](https://github.com/software-mansion/cairols) - The **Language Server Protocol (LSP)** implementation for Cairo, providing core IDE features like code completion, diagnostics, and hovering for enhanced developer experience.
+* [cairo-lint](https://github.com/software-mansion/cairo-lint) - A dedicated **linter** for the Cairo programming language, enforcing code style and detecting common issues to improve code quality.
+* [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - A **profiler** tool for analyzing and optimizing the performance and execution cost of Cairo programs.
+* [cairo-coverage](https://github.com/software-mansion/cairo-coverage) - A utility for generating **code coverage reports** for Cairo projects, helping ensure thorough testing.
+* [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry) - A robust **development framework and test harness** for building and testing smart contracts on the **Starknet** platform, primarily written in Cairo (co-maintained by Software Mansion).
