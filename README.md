@@ -30,7 +30,7 @@ Will try to keep it up to date.
 
 * [react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker) - A VS Code/Cursor extension to visualize which React components are optimized by the React Compiler.
 
-* [radon-ide](https://github.com/software-mansion/radon-ide) - A VSCode and Cursor extension that transforms the editor into a fully-featured Integrated Development Environment (IDE) for developing and debugging React Native and Expo applications with integrated device previews, debugging tools, and an element inspector.
+* [Radon IDE](https://github.com/software-mansion/radon-ide) - A VSCode and Cursor extension that transforms the editor into a fully-featured Integrated Development Environment (IDE) for developing and debugging React Native and Expo applications with integrated device previews, debugging tools, and an element inspector.
 
 * [swm-icon-pack-react](https://github.com/software-mansion-labs/swm-icon-pack-react) - A library providing **React and React Native components** for the **Software Mansion icon pack**, optimizing icon rendering for both web (SVG) and native (font) platforms.
 
