@@ -103,7 +103,7 @@ Will try to keep it up to date.
 
 * [Scarb](https://github.com/software-mansion/scarb) - The official **package manager and build toolchain** for the **Cairo programming language**, streamlining dependency management and project compilation.
 
-* [Cairo Language Server (cairols)](https://github.com/software-mansion/cairols) - The **Language Server Protocol (LSP)** implementation for Cairo, providing core IDE features like code completion, diagnostics, and hovering for enhanced developer experience.
+* [Cairo Language Server (CairoLS)](https://github.com/software-mansion/cairols) - The **Language Server Protocol (LSP)** implementation for Cairo, providing core IDE features like code completion, diagnostics, and hovering for enhanced developer experience.
 * [cairo-lint](https://github.com/software-mansion/cairo-lint) - A dedicated **linter** for the Cairo programming language, enforcing code style and detecting common issues to improve code quality.
 * [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - A **profiler** tool for analyzing and optimizing the performance and execution cost of Cairo programs.
 * [cairo-coverage](https://github.com/software-mansion/cairo-coverage) - A utility for generating **code coverage reports** for Cairo projects, helping ensure thorough testing.
