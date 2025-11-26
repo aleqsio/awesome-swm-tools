@@ -69,7 +69,8 @@ Will try to keep it up to date.
 * [Global Elixir Meetups](https://globalelixirmeetups.com/) - **Global Elixir Meetups (GEMs)**, a worldwide event series organized and streamed by Software Mansion to connect and grow the global Elixir development community.
 * [Elixir Community Kraków (ECK)](https://www.meetup.com/elixir-community-krakow-eck/) - A local **community meetup group** organized by Software Mansion in Kraków, Poland, creating a space for local developers to connect, learn, and discuss the **Elixir** programming language.
 * [Elixir Stream Week (ESW)](https://elixir-webrtc.org/esw.html) - An **online community event** featuring broadcasts and talks from top Elixir developers, organized and streamed by Software Mansion using their own Elixir multimedia tools.
-
+  
+* [Kraków Video Tech Meetup](https://www.meetup.com/pl-pl/krakow-video-tech-meetup/) - A local **community meetup group** organized and hosted by Software Mansion, dedicated to developers and software professionals working with video, audio, **WebRTC**, and computer vision.
 # Kotlin Multiplatform
 
 * [kmp-maps](https://github.com/software-mansion/kmp-maps) - A **universal map component for Compose Multiplatform** that provides a single API for native map services (Google Maps on Android, Apple Maps on iOS).
