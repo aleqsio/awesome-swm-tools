@@ -40,6 +40,10 @@ Will try to keep it up to date.
 ## Platforms
 * [Detour](https://docs.swmansion.com/detour/) - A developer-first, open-source platform for robust **deep linking** in mobile applications, handling deferred deep links and link routing with specialized React Native SDK support.
 
+## Apps
+
+* [Private Mind](https://github.com/software-mansion-labs/private-mind) - An open-source, **fully offline AI chatbot application** built with React Native and **react-native-executorch** to showcase privacy-first LLM usage, on-device RAG, and performance benchmarking on mobile devices.
+
 ## Events and surveys
 * [App.js Conf](https://appjs.co/) - **App.js Conf** is the premier European conference dedicated to the **React Native** and **Expo** ecosystems, bringing together core contributors and top experts for workshops and talks in Kraków, Poland.
 
