@@ -99,7 +99,7 @@ Will try to keep it up to date.
   
 * [KMP Wheel Picker](https://github.com/software-mansion-labs/kmp-wheel-picker) - A flexible and modular **wheel picker component** for **Compose Multiplatform (KMP)** applications, enabling native-style selection UIs on Android, iOS, and desktop.
 
-# Web3 (mostly Cairo)
+# Web3 & Blockchain
 
 * [Scarb](https://github.com/software-mansion/scarb) - The official **package manager and build toolchain** for the **Cairo programming language**, streamlining dependency management and project compilation.
 
@@ -108,3 +108,9 @@ Will try to keep it up to date.
 * [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - A **profiler** tool for analyzing and optimizing the performance and execution cost of Cairo programs.
 * [cairo-coverage](https://github.com/software-mansion/cairo-coverage) - A utility for generating **code coverage reports** for Cairo projects, helping ensure thorough testing.
 * [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry) - A robust **development framework and test harness** for building and testing smart contracts on the **Starknet** platform, primarily written in Cairo (co-maintained by Software Mansion).
+
+* [starknet.py](https://github.com/software-mansion/starknet.py) - A comprehensive **Python client library** for interacting with the Starknet decentralized application platform.
+* [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - A full-featured **JVM client library** (compatible with Java, Kotlin, etc.) for building applications that interface with the Starknet network.
+* [starknet.swift](https://github.com/software-mansion/starknet.swift) - A native **Swift client library** for interacting with Starknet, primarily used for building mobile applications on iOS and macOS.
+* [starknet-rust](https://github.com/software-mansion/starknet-rust) - A high-performance **Rust client library** for interfacing with the Starknet network.
+
