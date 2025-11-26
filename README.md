@@ -17,11 +17,16 @@ Will try to keep it up to date.
 * [expo-brownfield-target](https://github.com/software-mansion/expo-brownfield-target) - A tool to help integrate an Expo app (or a portion of it) into an existing native "Brownfield" application.
 * [react-native-whip-whep](https://github.com/software-mansion/react-native-whip-whep) - Mobile packages that support **WHIP (WebRTC HTTP Ingestion Protocol)** and **WHEP (WebRTC HTTP Egress Protocol)** for building real-time video streaming clients in React Native.
 
+* [react-native-shine](https://github.com/software-mansion-labs/react-native-shine) - A library for integrating **interactive GPU-based shader effects** into React Native apps, leveraging `TypeGPU` and WebGPU for fast and efficient visual effects.
+
 ## Editor extensions
 
 * [react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker) - A VS Code/Cursor extension to visualize which React components are optimized by the React Compiler.
 
 * [radon-ide](https://github.com/software-mansion/radon-ide) - A VSCode and Cursor extension that transforms the editor into a fully-featured Integrated Development Environment (IDE) for developing and debugging React Native and Expo applications with integrated device previews, debugging tools, and an element inspector.
+
+## Platforms
+* [Detour](https://docs.swmansion.com/detour/) - A developer-first, open-source platform for robust **deep linking** in mobile applications, handling deferred deep links and link routing with specialized React Native SDK support.
 
 ## Events and surveys
 * [App.js Conf](https://appjs.co/) - **App.js Conf** is the premier European conference dedicated to the **React Native** and **Expo** ecosystems, bringing together core contributors and top experts for workshops and talks in Kraków, Poland.
