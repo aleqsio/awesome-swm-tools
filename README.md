@@ -31,25 +31,44 @@ Will try to keep it up to date.
 
 * [radon-ide](https://github.com/software-mansion/radon-ide) - A VSCode and Cursor extension that transforms the editor into a fully-featured Integrated Development Environment (IDE) for developing and debugging React Native and Expo applications with integrated device previews, debugging tools, and an element inspector.
 
+* [swm-icon-pack-react](https://github.com/software-mansion-labs/swm-icon-pack-react) - A library providing **React and React Native components** for the **Software Mansion icon pack**, optimizing icon rendering for both web (SVG) and native (font) platforms.
+
+* [TypeGPU Confetti](https://github.com/software-mansion-labs/typegpu-confetti) - A confetti animations package for React and React Native, notable for performing all calculations and rendering **exclusively on the GPU** using the **TypeGPU** and **WebGPU** stack for maximum performance.
+
 ## Platforms
 * [Detour](https://docs.swmansion.com/detour/) - A developer-first, open-source platform for robust **deep linking** in mobile applications, handling deferred deep links and link routing with specialized React Native SDK support.
 
 ## Events and surveys
 * [App.js Conf](https://appjs.co/) - **App.js Conf** is the premier European conference dedicated to the **React Native** and **Expo** ecosystems, bringing together core contributors and top experts for workshops and talks in Kraków, Poland.
-  
+
+* [React Native Community Kraków (RNCK)](https://www.meetup.com/pl-PL/react-native-community-krakow-rnck/) - A local **community meetup group** organized by Software Mansion in Kraków, Poland, for developers interested in **React Native** and the mobile ecosystem.
+
 * [State Of React Native](https://github.com/software-mansion/state-of-react-native) - The repository for collaborating on the **shape, questions, and structure of the annual "State of React Native" survey**, which Software Mansion organizes.
 
-# Elixr & Multimedia
+# Elixir & Multimedia
+
+# Products and libraries
 
 * [Fishjam](https://fishjam.io) - A general-purpose **media server** (written in Elixir) that supports WebRTC, HLS, RTSP, and SIP, forming the backend for many real-time video applications.
 
-* [Smelter](https://github.com/software-mansion-labs/smelter) - A tool for **hot-reloading native code** in React Native applications, allowing native modules to be quickly iterated on and updated without recompiling the entire application, significantly speeding up development.
+* [Smelter](https://smelter.dev/) - A tool for real-time video compositing with React-like syntax or HTTP api.
 
 * [Membrane Framework](https://github.com/membraneframework) - A versatile, open-source **multimedia streaming and processing framework written in Elixir** that allows developers to build robust, scalable, and customizable media pipelines for applications using protocols like WebRTC, RTMP, RTSP, and HLS.
   
 * [Live Debugger](https://github.com/software-mansion/live-debugger) - A browser-based tool for **debugging applications written in Phoenix LiveView** (an Elixir library), allowing developers to inspect component trees and trace callbacks.
+* [Elixir WebRTC](https://elixir-webrtc.org/) - A full, compliant implementation of the **W3C WebRTC API** written almost entirely in **Elixir**, providing the foundation for real-time video/audio applications in the Elixir ecosystem.
+
+* [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser** via WebAssembly (WASM).
+
+* [Boombox](https://github.com/membraneframework/boombox) - A **high-level, simple streaming tool** built on top of the **Membrane Framework** (Elixir), designed to quickly handle common multimedia streaming tasks like converting RTMP to HLS with a declarative API.
+
+# Events and communities
+
 * [rtcon.live](https://rtcon.live/) - **RTC.ON** is a developer conference focused on sharing expertise in **WebRTC, streaming, computer vision, and AI development**, targeting multimedia engineers and enthusiasts.
+  
 * [Global Elixir Meetups](https://globalelixirmeetups.com/) - **Global Elixir Meetups (GEMs)**, a worldwide event series organized and streamed by Software Mansion to connect and grow the global Elixir development community.
+* [Elixir Community Kraków (ECK)](https://www.meetup.com/elixir-community-krakow-eck/) - A local **community meetup group** organized by Software Mansion in Kraków, Poland, creating a space for local developers to connect, learn, and discuss the **Elixir** programming language.
+* [Elixir Stream Week (ESW)](https://elixir-webrtc.org/esw.html) - An **online community event** featuring broadcasts and talks from top Elixir developers, organized and streamed by Software Mansion using their own Elixir multimedia tools.
 
 # Kotlin Multiplatform
 
