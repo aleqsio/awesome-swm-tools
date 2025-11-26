@@ -60,7 +60,7 @@ Will try to keep it up to date.
 
 * [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser via WebAssembly (WASM).
 
-* [Boombox](https://github.com/membraneframework/boombox) - A **high-level, simple streaming tool** built on top of the **Membrane Framework** (Elixir), designed to quickly handle common multimedia streaming tasks like converting RTMP to HLS with a declarative API.\
+* [Boombox](https://github.com/membraneframework/boombox) - A **high-level, simple streaming tool** built on top of the **Membrane Framework** (Elixir), designed to quickly handle common multimedia streaming tasks like converting RTMP to HLS with a declarative API.
 
 * [vk-video](https://github.com/software-mansion/smelter/tree/master/vk-video) – A library for hardware video decoding (and soon encoding) using Vulkan Video, with wgpu integration.
 
