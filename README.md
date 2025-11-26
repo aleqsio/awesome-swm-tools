@@ -1,4 +1,5 @@
-# awesome-swm-tools
+# Awesome SWM tools
+
 A list of all [Software Mansion](https://swmansion.com/) tools, products, libraries and offerings.
 Will try to keep it up to date.
 
