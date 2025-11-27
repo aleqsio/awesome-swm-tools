@@ -26,6 +26,9 @@ Will try to keep it up to date.
 * [react-native-rag](https://github.com/software-mansion/react-native-rag) - A specialized library for integrating Retrieval-Augmented Generation (RAG) capabilities into React Native applications, facilitating on-device, context-aware AI interactions.
   
 * [react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) - A performant and customizable component for React Native that renders **Markdown text dynamically as it is being typed**, primarily developed by Expensify with significant contribution from Software Mansion.
+
+* [react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) – A customizable onboarding/tutorial component for React Native — with smooth animations, flexible theming, and highly customizable components.
+
 ## Editor extensions
 
 * [react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker) - A VS Code/Cursor extension to visualize which React components are optimized by the React Compiler.
