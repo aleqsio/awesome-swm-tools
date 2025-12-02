@@ -107,6 +107,8 @@ Will try to keep it up to date.
   
 * [KMP Wheel Picker](https://github.com/software-mansion-labs/kmp-wheel-picker) - A flexible and modular **wheel picker component** for **Compose Multiplatform (KMP)** applications, enabling native-style selection UIs on Android, iOS, and desktop.
 
+* [kmp-live-activity](https://github.com/software-mansion-labs/kmp-live-activity) – An iOS Live Activity API wrapper for **Kotlin Multiplatform**.
+
 # Web3 & Blockchain
 
 * [Scarb](https://github.com/software-mansion/scarb) - The official **package manager and build toolchain** for the **Cairo programming language**, streamlining dependency management and project compilation.
