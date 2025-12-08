@@ -16,14 +16,14 @@ Will try to keep it up to date.
 * [react-native-audio-api](https://github.com/software-mansion/react-native-audio-api) - A high-performance audio engine for React Native.
 * [react-native-enriched](https://github.com/software-mansion/react-native-enriched) - A rich text editor component for React Native.
 * [expo-live-activity](https://github.com/software-mansion-labs/expo-live-activity) - An Expo module to manage and display iOS Live Activities directly from a React Native application.
-* [expo-brownfield-target](https://github.com/software-mansion/expo-brownfield-target) - A tool to help integrate an Expo app (or a portion of it) into an existing native "Brownfield" application.
+* [expo-brownfield-target](https://github.com/software-mansion-labs/expo-brownfield-target) - A tool to help integrate an Expo app (or a portion of it) into an existing native "Brownfield" application.
 * [react-native-whip-whep](https://github.com/software-mansion/react-native-whip-whep) - Mobile packages that support **WHIP (WebRTC HTTP Ingestion Protocol)** and **WHEP (WebRTC HTTP Egress Protocol)** for building real-time video streaming clients in React Native.
 
 * [react-native-shine](https://github.com/software-mansion-labs/react-native-shine) - A library for integrating **interactive GPU-based shader effects** into React Native apps, leveraging `TypeGPU` and WebGPU for fast and efficient visual effects.
 
 * [react-native-wallet](https://github.com/Expensify/react-native-wallet) - A lightweight, cross-platform library built in collaboration with Expensify to simplify the process of adding payment cards to **Apple Wallet** and **Google Wallet** (Push Provisioning).
   
-* [react-native-rag](https://github.com/software-mansion/react-native-rag) - A specialized library for integrating Retrieval-Augmented Generation (RAG) capabilities into React Native applications, facilitating on-device, context-aware AI interactions.
+* [react-native-rag](https://github.com/software-mansion-labs/react-native-rag) - A specialized library for integrating Retrieval-Augmented Generation (RAG) capabilities into React Native applications, facilitating on-device, context-aware AI interactions.
   
 * [react-native-live-markdown](https://github.com/Expensify/react-native-live-markdown) - A performant and customizable component for React Native that renders **Markdown text dynamically as it is being typed**, primarily developed by Expensify with significant contribution from Software Mansion.
 
