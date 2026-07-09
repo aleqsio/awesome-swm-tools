@@ -29,6 +29,16 @@ Will try to keep it up to date.
 
 * [react-native-onboarding](https://github.com/software-mansion-labs/react-native-onboarding) – A customizable onboarding/tutorial component for React Native — with smooth animations, flexible theming, and highly customizable components.
 
+* [react-native-worklets](https://github.com/software-mansion/react-native-worklets) - The **multithreading library** for React Native that powers Reanimated, letting you run JavaScript functions ("worklets") on separate threads for high-performance, off-the-main-thread work.
+
+* [pulsar](https://github.com/software-mansion/pulsar) - A rich and ready-to-use **haptics library** for React Native, providing expressive, cross-platform tactile feedback.
+
+* [react-native-bottom-sheet](https://github.com/software-mansion-labs/react-native-bottom-sheet) - Performant, flexible **bottom-sheet components** for React Native.
+
+* [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown) - A component for **rendering Markdown as it streams in** (e.g. from an LLM) in React Native, part of the `react-native-enriched` family.
+
+* [react-native-nano-icons](https://github.com/software-mansion-labs/react-native-nano-icons) - A **high-performance icon rendering** library for React Native & Expo.
+
 ## Editor extensions
 
 * [react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker) - A VS Code/Cursor extension to visualize which React components are optimized by the React Compiler.
@@ -40,6 +50,12 @@ Will try to keep it up to date.
 * [TypeGPU Confetti](https://github.com/software-mansion-labs/typegpu-confetti) - A confetti animations package for React and React Native, notable for performing all calculations and rendering **exclusively on the GPU** using the **TypeGPU** and **WebGPU** stack for maximum performance.
 
 * [expo-horizon-core](https://github.com/software-mansion-labs/expo-horizon) - An Expo config plugin designed to add support for **Meta Quest VR devices** to Expo development builds by managing Android product flavors and specific Meta Horizon Store requirements.
+
+## Developer Tools
+
+* [argent](https://github.com/software-mansion/argent) - An **agentic toolkit to control, debug, and profile iOS and Android apps**, letting AI agents (and developers) drive real devices and simulators.
+
+* [simcam](https://github.com/software-mansion/simcam.app) - A tool to **use and test the camera on the iOS simulator**, which normally has no camera support.
 
 ## Platforms
 * [Detour](https://docs.swmansion.com/detour/) - A developer-first, open-source platform for robust **deep linking** in mobile applications, handling deferred deep links and link routing with specialized React Native SDK support.
@@ -59,6 +75,8 @@ Will try to keep it up to date.
 
 - [TypeGPU](https://github.com/software-mansion/TypeGPU) - TypeGPU is a modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript.
 
+- [byegl](https://github.com/software-mansion/byegl) - A reimplementation of the **WebGL API on top of WebGPU**, allowing for gradual migration of existing 3D web code to the modern WebGPU stack.
+
 # Elixir
 
 ## Products and libraries
@@ -67,6 +85,10 @@ Will try to keep it up to date.
 * [Elixir WebRTC](https://elixir-webrtc.org/) - A full, compliant implementation of the **W3C WebRTC API** written almost entirely in **Elixir**, providing the foundation for real-time video/audio applications in the Elixir ecosystem.
 
 * [Popcorn](https://popcorn.swmansion.com/) - The **Popcorn** library allows Elixir code to run client-side in the browser via WebAssembly (WASM).
+
+* [Legion](https://github.com/software-mansion-labs/legion) - An **Elixir-native framework for building runtime AI agents**, bringing agentic workflows into the BEAM ecosystem.
+
+* [live_stash](https://github.com/software-mansion-labs/live-stash) - A library that **fixes the problem of losing state on Phoenix LiveView reconnects**.
 
 
 
@@ -111,16 +133,25 @@ Will try to keep it up to date.
 
 # Web3 & Blockchain
 
+* [Starkup](https://github.com/software-mansion/starkup) - A **one-command installer** that sets up all the essential tools needed for Starknet development.
+
 * [Scarb](https://github.com/software-mansion/scarb) - The official **package manager and build toolchain** for the **Cairo programming language**, streamlining dependency management and project compilation.
 
 * [Cairo Language Server (CairoLS)](https://github.com/software-mansion/cairols) - The **Language Server Protocol (LSP)** implementation for Cairo, providing core IDE features like code completion, diagnostics, and hovering for enhanced developer experience.
 * [cairo-lint](https://github.com/software-mansion/cairo-lint) - A dedicated **linter** for the Cairo programming language, enforcing code style and detecting common issues to improve code quality.
 * [cairo-profiler](https://github.com/software-mansion/cairo-profiler) - A **profiler** tool for analyzing and optimizing the performance and execution cost of Cairo programs.
 * [cairo-coverage](https://github.com/software-mansion/cairo-coverage) - A utility for generating **code coverage reports** for Cairo projects, helping ensure thorough testing.
+* [cairo-debugger](https://github.com/software-mansion/cairo-debugger) - A **debugger** for the Cairo programming language, enabling step-through inspection of Cairo program execution.
 * [Starknet Foundry](https://github.com/foundry-rs/starknet-foundry) - A robust **development framework and test harness** for building and testing smart contracts on the **Starknet** platform, primarily written in Cairo (co-maintained by Software Mansion).
 
 * [starknet.py](https://github.com/software-mansion/starknet.py) - A comprehensive **Python client library** for interacting with the Starknet decentralized application platform.
 * [starknet-jvm](https://github.com/software-mansion/starknet-jvm) - A full-featured **JVM client library** (compatible with Java, Kotlin, etc.) for building applications that interface with the Starknet network.
 * [starknet.swift](https://github.com/software-mansion/starknet.swift) - A native **Swift client library** for interacting with Starknet, primarily used for building mobile applications on iOS and macOS.
 * [starknet-rust](https://github.com/software-mansion/starknet-rust) - A high-performance **Rust client library** for interfacing with the Starknet network.
+
+# AI-assisted Development
+
+* [Agentic Engineering Guide](https://github.com/software-mansion/agentic-engineering) - **Software Mansion's guide to agentic engineering** — practices and patterns for building software effectively with AI agents.
+
+* [SWM Skills](https://github.com/software-mansion-labs/skills) - Software Mansion's set of **Agent skills for AI-assisted React Native development**.
 
